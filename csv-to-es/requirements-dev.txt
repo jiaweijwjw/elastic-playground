@@ -1,5 +1,6 @@
 black
 isort
-elasticsearch
+elasticsearch==8.8.2
 pandas
 python-dotenv
+tqdm
